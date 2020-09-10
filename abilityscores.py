@@ -34,11 +34,3 @@ def get_ability_scores():
 
 
 get_ability_scores()
-
-
-
-
-# class Character():
-#   def __init__(self, name):
-
-# Each Character class has a Race, Class, etc.
