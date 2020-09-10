@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+bin/
 build/
 develop-eggs/
 dist/
@@ -26,6 +27,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Mac stuff
+.DS_Store
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -83,6 +87,7 @@ ipython_config.py
 
 # pyenv
 .python-version
+pyvenv.cfg
 
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
